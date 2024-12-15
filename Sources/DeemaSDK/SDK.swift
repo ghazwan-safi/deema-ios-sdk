@@ -1,9 +1,3 @@
-//
-//  SDK.swift
-//  DeemaSDK_Package
-//
-//  Created by Taimur Imam on 10/12/24.
-//
 
 
 import SwiftUI
