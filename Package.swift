@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "DeemaSDK_Package",
+    name: "DeemaSDK",
     platforms: [
         .iOS(.v15)
     ] ,
