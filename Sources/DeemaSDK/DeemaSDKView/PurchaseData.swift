@@ -1,10 +1,3 @@
-//
-//  PurchaseData.swift
-//  DeemaSDK_Package
-//
-//  Created by Taimur Imam on 12/12/24.
-//
-
 
 struct PurchaseData: Codable, Sendable {
     let redirectLink: String
