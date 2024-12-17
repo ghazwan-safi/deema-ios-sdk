@@ -20,7 +20,7 @@ The **Deema SDK** for iOS enables you to integrate our Buy Now, Pay Later (BNPL)
 1. In your Xcode project, go to **File > Add Packages**.
 2. Enter the repository URL for the Deema SDK:
    ```
-   https://github.com/Deema/DeemaSDK-Package.git
+   https://github.com/ghazwan-safi/deema-ios-sdk.git
    ```
 3. Select the `main` branch and add it to your project.
 
