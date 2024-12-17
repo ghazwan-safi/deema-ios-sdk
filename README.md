@@ -1,7 +1,3 @@
-Here’s the documentation for the iOS SDK:
-
----
-
 # Deema SDK for iOS
 
 ## Introduction
